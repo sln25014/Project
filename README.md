@@ -1,16 +1,22 @@
-## Hi there 👋
+# Vad jag har lärt mig under vecka 1
 
-<!--
-**sln25014/sln25014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Git
 
-Here are some ideas to get you started:
+## Markdown
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Kodruta
+```html
+Skriv text här
+```
+
+Kodblock
+```<body>```
+
+Punktlista
+* blablabla
+
+## VS Code
+
+## HTML
+
+## CSS
