@@ -7,9 +7,8 @@ Git är ett *versionshanteringsverktyg* som skapade av Linus Thorvalds 2005 och 
 1. Installerade Git via https://git-scm.com för windows
 2. Skapade ett konto på https://github.com
 3. Öppnade Git Bash teminalen
-4. Skapade en ny mapp med ```mkdir <mapp>``` och ==flyttade== in i mappen med ```cd <mapp>```
-5. ==Aktiverar== mappen för git med ```git init```
-6. 
+4. Skapade en ny mapp med ```mkdir <mapp>``` och flyttade in i mappen med ```cd <mapp>```
+5. Aktiverar mappen för git med ```git init```
 
 
 ## Markdown
