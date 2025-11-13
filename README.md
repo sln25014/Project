@@ -39,6 +39,6 @@ för att skapa en 2x2 tabell. Med hjälp av Emmet skriver man istället:
  
  och får samma resultat men med mycket färre tecken.
 
-Även delar som att slippa skriva ut ```<>``` runt delar som ```head``` snabbar på kodskrivandet 
+Även delar som att slippa skriva ut ```<>``` runt delar som ```head``` snabbar på kodskrivandet.
 
 ---
