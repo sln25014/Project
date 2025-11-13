@@ -1,7 +1,7 @@
 # Vad jag har lärt mig under vecka 1
 
 ## Git
-Git är ett *versionshanteringsverktyg* som skapade av Linus Thorvalds 2005 och är *open source*. *Github* är en hub eller ett nav för lagring av filer med Git och tillåter förbättringsförslag från andra användare.
+Git är ett *tillståndshanteringsverktyg* som skapade av Linus Thorvalds 2005 och är *open source*. *Github* är en hub eller ett nav för lagring av filer med Git och tillåter förbättringsförslag från andra användare.
 
 ### Del 1
 1. Installerade Git via https://git-scm.com för windows
