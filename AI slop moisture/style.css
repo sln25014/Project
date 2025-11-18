@@ -1,0 +1,95 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #181a1b;
+    color: #e0e0e0;
+    margin: 0;
+}
+
+
+header {
+    background: #222c22;
+    color: #e0e0e0;
+    padding: 1rem 2rem;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+.container {
+    max-width: 900px;
+    margin: 2rem auto;
+    background: #23272a;
+    border-radius: 8px;
+    padding: 2rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+
+.plant-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+}
+
+
+.plant-card {
+    background: #232c23;
+    border: 1px solid #333c33;
+    border-radius: 8px;
+    width: 250px;
+    padding: 1rem;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+}
+
+
+.plant-name {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    color: #b6f7b0;
+}
+
+
+.moisture-status {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+
+.moisture-bar {
+    height: 16px;
+    border-radius: 8px;
+    background: #333c33;
+    margin-bottom: 0.5rem;
+}
+
+
+.moisture-bar-inner {
+    height: 100%;
+    border-radius: 8px;
+    background: #388e3c;
+}
+
+
+.dry {
+    color: #ff6f6f;
+    font-weight: bold;
+}
+
+
+.wet {
+    color: #b6f7b0;
+    font-weight: bold;
+}
+
+footer {
+    background: #222c22;
+    color: #e0e0e0;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+}
